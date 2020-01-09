@@ -1,6 +1,6 @@
 # The source of warta.it
 
-This repository contains the source code of www.warta.it.
+This repository contains the source code of [warta.it](https://warta.it/).
 
 ## Development
 
