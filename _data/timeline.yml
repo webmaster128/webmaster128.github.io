@@ -1,0 +1,44 @@
+- title: IOV SAS, Director of Engineering
+  from: June 2018
+  to: present
+  description: >
+    As a senior software developer, I developed the multi blockchain library IOV
+    Core. Over time I took on more responsibilities and mentored three small
+    teams while overseeing the company's overall technology stack. In October
+    2019 we successfully launched a name service on a Tendermint-based
+    blockchain.
+
+- title: Lisk community, Independent contributor
+  from: April 2018
+  to: May 2018
+  description: >
+    Looking for a proof of work alternative I stumbled into Lisk, the first
+    blockchain community I joined. In the first weeks I analyzed key management
+    and signing security. Along the way I contributed a bunch of bugfixes to the
+    blockchain node and the wallet. Later I worked on network security. I fixed
+    a critical bug that caused a network halt and later discovered and
+    responsibly disclosed a critical transaction malleability bug in Lisk and
+    its forks.
+
+- title: myBlix GmbH, Mobile Developer iOS/Swift
+  from: May 2016
+  to: March 2018
+  description: >
+    In a small team of 3 iOS devs, one Android and one backend dev we developed
+    a mobile chat application from MVP stage to a solid production ready
+    application with thousands of users. The work included big refactorings of
+    existing code, integration of the chat SDK Layer and design of a JSON:API
+    over REST backend.
+
+- title: Kullo GmbH, Co-Founder/CEO
+  from: 2013
+  to: present
+  description: >
+    I co-founded the secure communication solution Kullo. Kullo's objective was
+    to create an email alternative that is end-to-end encrypted and very
+    user-friendly at the same time. The startup was funded by a grant from the
+    European Social Fund as well as business angels. After 2 years of
+    development, we brought Kullo for Desktop to market in 2015, followed by
+    mobile apps for iOS and Android one year later. Incorporating feedback of
+    users and customers, we significantly improved the UX over time under the
+    constraints that come with securely encrypted data.

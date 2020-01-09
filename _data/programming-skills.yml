@@ -1,0 +1,23 @@
+- name: TypeScript
+  percentage: 95
+  color:
+
+- name: C++
+  percentage: 70
+  color:
+
+- name: Go
+  percentage: 20
+  color:
+
+- name: Python
+  percentage: 80
+  color:
+
+- name: Rust
+  percentage: 70
+  color:
+
+- name: And so on… Does this even matter?
+  percentage: 95
+  color:

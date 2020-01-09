@@ -1,0 +1,20 @@
+- name: Cryptography
+  percentage: 80
+  color: success
+
+- name: Software architecture
+  percentage: 90
+  color: success
+
+- name: Startup spirit
+  percentage: 90
+  color: success
+
+- name: Blockchain
+  percentage: 95
+  color: success
+
+- name: Team lead
+  percentage: 85
+  color: success
+
