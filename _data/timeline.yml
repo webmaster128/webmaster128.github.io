@@ -1,6 +1,6 @@
 - title: IOV SAS, Director of Engineering
   from: June 2018
-  to: present
+  to: January 2020
   description: >
     As a senior software developer, I developed the multi blockchain library IOV
     Core. Over time I took on more responsibilities and mentored three small
@@ -42,3 +42,11 @@
     mobile apps for iOS and Android one year later. Incorporating feedback of
     users and customers, we significantly improved the UX over time under the
     constraints that come with securely encrypted data.
+
+- title: Technische Universität Darmstadt, BSc.
+  from: 2008
+  to: 2012
+  description: >
+    I studied Mathematics with Computer Science as a minor and wrote a
+    Bachelor's thesis in the field of post quantum cryptography at the Center
+    for Advanced Security Research Darmstadt.
