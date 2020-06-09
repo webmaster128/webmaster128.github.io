@@ -9,6 +9,8 @@ This two page overview of the upcoming Protobuf based signing mechanism for Cos
 blockchains shows how containers relate to each other in
 [ADR-020](https://github.com/cosmos/cosmos-sdk/blob/66c5798cec/docs/architecture/adr-020-protobuf-transaction-encoding.md).
 
+Download: [Page 1](/assets/posts/protobuf-signing-page1.png), [Page 2](/assets/posts/protobuf-signing-page1.png)
+
 {% capture carousel_images %}
 /assets/posts/protobuf-signing-page1.png
 /assets/posts/protobuf-signing-page2.png
