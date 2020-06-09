@@ -1,0 +1,16 @@
+---
+title: The 3 levels of proto encoding
+tags: [Cosmos SDK, Protobuf, Signing, Blockchain]
+description: >
+  An overview of the upcoming Protobuf based signing mechanism for Cosmos SDK 0.39+ blockchains as defined in ADR-020.
+---
+
+This two page overview of the upcoming Protobuf based signing mechanism for Cosmos SDK 0.39+
+blockchains shows how containers relate to each other in
+[ADR-020](https://github.com/cosmos/cosmos-sdk/blob/66c5798cec/docs/architecture/adr-020-protobuf-transaction-encoding.md).
+
+{% capture carousel_images %}
+/assets/posts/protobuf-signing-page1.png
+/assets/posts/protobuf-signing-page2.png
+{% endcapture %}
+{% include elements/carousel.html %}
