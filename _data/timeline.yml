@@ -1,15 +1,23 @@
-- title: Confio, VP Engineering
-  from: March 2020
+- title: Confio GmbH, Co-Founder/Managing Director
+  from: January 2021
   to: today
+  description: >
+    In order to professionalize our corporate structure, I co-founded Confio GmbH –
+    the bigger brother of Confio OÜ. It's a fully remote development company
+    employing a growing team of almost 20 people across Europe.
+    Our current focus is to realize the Tgrade blockchain ecosystem for regulated DeFi
+    as well as maintaining the CosmWasm smart contracting technology.
+
+- title: Confio OÜ, VP Engineering
+  from: March 2020
+  to: December 2020
   description: >
     I joined in the early days to work out the idea multi-blockchain smart
     contracts based on WebAssembly containers (CosmWasm). Over the months, the
     team grew from two people to a dozen causing significant mentoring
-    responsibility. I now lead the development of the virtual machine as well as
+    responsibility. I then led the development of the virtual machine as well as
     the client side framework CosmJS. With this free software offering, Confio
     established itself as a core contributor to the Cosmos blockchain ecosystem.
-    Today I'm Geschäftsführer of Confio GmbH. Our current focus is to realize
-    the Tgrade blockchain for regulated DeFi.
 
 - title: IOV SAS, Director of Engineering
   from: June 2018
